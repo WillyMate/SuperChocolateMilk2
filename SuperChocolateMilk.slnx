@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/SuperchocolateMilk.core/">
+    <Project Path="SuperchocolateMilk.core/SuperChocolateMilk.core.csproj" />
+  </Folder>
+  <Project Path="SuperChocolateMilk.UnitTests/SuperChocolateMilk.UnitTests.csproj" />
+</Solution>
